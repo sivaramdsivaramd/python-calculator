@@ -61,4 +61,3 @@ for j in range(4):
 
 # Run the application
 root.mainloop()
-# freak
